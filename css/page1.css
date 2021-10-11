@@ -45,3 +45,6 @@ body{
     text-decoration-line: underline;
     text-decoration-color: white;
 }
+.btn{
+    background-color: #007bff;
+}
